@@ -1,4 +1,6 @@
-> This repository's code was moved to [lou.codes](https://lou.codes).
+> [!IMPORTANT]
+>
+> **This library is deprecated.** Go to [coven.engineering](https://coven.engineering) to see we are doing nowadays.
 
 ---
 
