@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **This library is deprecated.** Go to [coven.engineering](https://coven.engineering) to see we are doing nowadays.
+> **This library is deprecated.** Go to [coven.engineering](https://coven.engineering) to see what we are doing nowadays.
 
 ---
 
